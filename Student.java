@@ -1,5 +1,3 @@
-package com.tema;
-
 public class Student {
     String nume;
     int varsta;
