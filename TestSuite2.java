@@ -1,5 +1,3 @@
-package com.tema;
-
 import org.junit.runners.Suite;
 import org.junit.runner.RunWith;
 
