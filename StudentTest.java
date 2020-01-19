@@ -1,4 +1,3 @@
-package com.tema;
 
 import org.junit.Test;
 
