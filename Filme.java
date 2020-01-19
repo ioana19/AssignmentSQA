@@ -1,5 +1,3 @@
-package com.tema;
-
 public class Filme {
     String nume;
     int an;
