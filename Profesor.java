@@ -1,5 +1,3 @@
-package com.tema;
-
 public class Profesor {
     String materie;
     String nume;
