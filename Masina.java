@@ -1,5 +1,3 @@
-package com.tema;
-
 public class Masina {
     String firma;
     int an;
